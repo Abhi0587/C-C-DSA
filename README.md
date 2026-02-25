@@ -27,6 +27,7 @@ Problems
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Abhi0587/C-C-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Abhi0587/C-C-DSA/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -35,9 +36,14 @@ Problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Abhi0587/C-C-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhi0587/C-C-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0136-single-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Abhi0587/C-C-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
