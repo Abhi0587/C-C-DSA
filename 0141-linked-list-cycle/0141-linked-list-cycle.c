@@ -1,21 +1,16 @@
 bool hasCycle(struct ListNode *head) {
 
-    struct ListNode *p, *q;
+    struct ListNode *p = head;
+    struct ListNode *q = head;
 
-    if(head == NULL || head->next == NULL)
-        return false;
-
-    p = q = head;
-
-    do{
+    while(q != NULL && q->next != NULL)
+    {
         p = p->next;
-        q = q->next;
-        q = (q != NULL) ? q->next : NULL;
+        q = q->next->next;
 
         if(p == q)
             return true;
-
-    }while(p != NULL && q != NULL);
+    }
 
     return false;
 }
