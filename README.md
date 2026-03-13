@@ -11,11 +11,13 @@ Problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhi0587/C-C-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Abhi0587/C-C-DSA/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Abhi0587/C-C-DSA/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhi0587/C-C-DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Abhi0587/C-C-DSA/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/Abhi0587/C-C-DSA/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,4 +62,8 @@ Problems
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Abhi0587/C-C-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Abhi0587/C-C-DSA/tree/master/0206-reverse-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Abhi0587/C-C-DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
