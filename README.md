@@ -12,6 +12,7 @@ Problems
 | [0136-single-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Abhi0587/C-C-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Abhi0587/C-C-DSA/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Abhi0587/C-C-DSA/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Problems
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Abhi0587/C-C-DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Abhi0587/C-C-DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Abhi0587/C-C-DSA/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
