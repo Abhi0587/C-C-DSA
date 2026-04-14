@@ -80,4 +80,8 @@ Problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhi0587/C-C-DSA/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Abhi0587/C-C-DSA/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
