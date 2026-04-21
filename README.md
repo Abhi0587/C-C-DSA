@@ -40,6 +40,7 @@ Problems
 | [0066-plus-one](https://github.com/Abhi0587/C-C-DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Abhi0587/C-C-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Abhi0587/C-C-DSA/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Abhi0587/C-C-DSA/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,4 +85,12 @@ Problems
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Abhi0587/C-C-DSA/tree/master/0176-second-highest-salary) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Abhi0587/C-C-DSA/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Abhi0587/C-C-DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
