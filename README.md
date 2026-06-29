@@ -8,6 +8,7 @@ Problems
 | ------- |
 | [0001-two-sum](https://github.com/Abhi0587/C-C-DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhi0587/C-C-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Abhi0587/C-C-DSA/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Abhi0587/C-C-DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Abhi0587/C-C-DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhi0587/C-C-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -44,6 +45,7 @@ Problems
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abhi0587/C-C-DSA/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/Abhi0587/C-C-DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Abhi0587/C-C-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Abhi0587/C-C-DSA/tree/master/0283-move-zeroes) |
@@ -93,4 +95,8 @@ Problems
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Abhi0587/C-C-DSA/tree/master/0258-add-digits) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Abhi0587/C-C-DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
