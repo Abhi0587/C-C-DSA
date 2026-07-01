@@ -18,6 +18,7 @@ Problems
 | [0217-contains-duplicate](https://github.com/Abhi0587/C-C-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhi0587/C-C-DSA/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Abhi0587/C-C-DSA/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
