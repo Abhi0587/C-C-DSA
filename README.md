@@ -45,6 +45,7 @@ Problems
 | [0066-plus-one](https://github.com/Abhi0587/C-C-DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Abhi0587/C-C-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Abhi0587/C-C-DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Abhi0587/C-C-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Abhi0587/C-C-DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -63,6 +64,7 @@ Problems
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Abhi0587/C-C-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0268-missing-number) |
 ## Memoization
 |  |
@@ -80,6 +82,7 @@ Problems
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Abhi0587/C-C-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Abhi0587/C-C-DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Abhi0587/C-C-DSA/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
 | ------- |
