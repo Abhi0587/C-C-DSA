@@ -41,6 +41,7 @@ Problems
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Abhi0587/C-C-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Abhi0587/C-C-DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Abhi0587/C-C-DSA/tree/master/0070-climbing-stairs) |
