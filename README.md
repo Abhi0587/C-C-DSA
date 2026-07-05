@@ -59,6 +59,7 @@ Problems
 | [0189-rotate-array](https://github.com/Abhi0587/C-C-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Abhi0587/C-C-DSA/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/Abhi0587/C-C-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Problems
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Abhi0587/C-C-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Abhi0587/C-C-DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Abhi0587/C-C-DSA/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Abhi0587/C-C-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
