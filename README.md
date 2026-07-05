@@ -55,6 +55,7 @@ Problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abhi0587/C-C-DSA/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Abhi0587/C-C-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Abhi0587/C-C-DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Abhi0587/C-C-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0202-happy-number) |
@@ -78,6 +79,7 @@ Problems
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Abhi0587/C-C-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Abhi0587/C-C-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Abhi0587/C-C-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Abhi0587/C-C-DSA/tree/master/0141-linked-list-cycle) |
