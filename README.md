@@ -21,6 +21,7 @@ Problems
 | [0283-move-zeroes](https://github.com/Abhi0587/C-C-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Abhi0587/C-C-DSA/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhi0587/C-C-DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/Abhi0587/C-C-DSA/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Problems
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Abhi0587/C-C-DSA/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/Abhi0587/C-C-DSA/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
