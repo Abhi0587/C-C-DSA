@@ -131,4 +131,12 @@ Problems
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Abhi0587/C-C-DSA/tree/master/1480-running-sum-of-1d-array) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Abhi0587/C-C-DSA/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Abhi0587/C-C-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
