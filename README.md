@@ -9,6 +9,7 @@ Problems
 | [0001-two-sum](https://github.com/Abhi0587/C-C-DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhi0587/C-C-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Abhi0587/C-C-DSA/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Abhi0587/C-C-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhi0587/C-C-DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Abhi0587/C-C-DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Abhi0587/C-C-DSA/tree/master/0066-plus-one) |
@@ -59,6 +60,7 @@ Problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abhi0587/C-C-DSA/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhi0587/C-C-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Abhi0587/C-C-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhi0587/C-C-DSA/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Abhi0587/C-C-DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Abhi0587/C-C-DSA/tree/master/0189-rotate-array) |
