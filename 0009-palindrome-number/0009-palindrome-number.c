@@ -1,16 +1,14 @@
 bool isPalindrome(int x) {
+    int orinum=x;
     long long rev=0;
-    int temp,orinum=x;
 
     if(x<0)
     return false;
-
-    while(x>0)
-    {
-        temp=x%10;
-        rev=rev*10+temp;
+    while(x>0){
+        int rem=x%10;
+        rev=rev*10+rem;
         x=x/10;
     }
-    return(rev==orinum);
+    return orinum==rev;
     
 }
