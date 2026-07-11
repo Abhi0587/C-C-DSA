@@ -50,6 +50,7 @@ Problems
 | [0009-palindrome-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Abhi0587/C-C-DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Abhi0587/C-C-DSA/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Abhi0587/C-C-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Abhi0587/C-C-DSA/tree/master/0231-power-of-two) |
@@ -140,6 +141,7 @@ Problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhi0587/C-C-DSA/tree/master/0020-valid-parentheses) |
+| [0171-excel-sheet-column-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0171-excel-sheet-column-number) |
 ## Stack
 |  |
 | ------- |
