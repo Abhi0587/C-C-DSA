@@ -57,6 +57,7 @@ Problems
 | [0231-power-of-two](https://github.com/Abhi0587/C-C-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Abhi0587/C-C-DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Abhi0587/C-C-DSA/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/Abhi0587/C-C-DSA/tree/master/0441-arranging-coins) |
 ## Two Pointers
 |  |
@@ -100,6 +101,7 @@ Problems
 | [0021-merge-two-sorted-lists](https://github.com/Abhi0587/C-C-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Abhi0587/C-C-DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Abhi0587/C-C-DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Abhi0587/C-C-DSA/tree/master/0326-power-of-three) |
 ## Sorting
 |  |
 | ------- |
