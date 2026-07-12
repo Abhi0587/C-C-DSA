@@ -32,6 +32,7 @@ Problems
 | [0202-happy-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Abhi0587/C-C-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0268-missing-number) |
+| [3941-password-strength](https://github.com/Abhi0587/C-C-DSA/tree/master/3941-password-strength) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,6 +147,7 @@ Problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhi0587/C-C-DSA/tree/master/0020-valid-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0171-excel-sheet-column-number) |
+| [3941-password-strength](https://github.com/Abhi0587/C-C-DSA/tree/master/3941-password-strength) |
 ## Stack
 |  |
 | ------- |
