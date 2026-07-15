@@ -62,6 +62,7 @@ Problems
 | [0326-power-of-three](https://github.com/Abhi0587/C-C-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abhi0587/C-C-DSA/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/Abhi0587/C-C-DSA/tree/master/0441-arranging-coins) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abhi0587/C-C-DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Two Pointers
 |  |
 | ------- |
