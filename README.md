@@ -21,6 +21,7 @@ Problems
 | [0268-missing-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhi0587/C-C-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Abhi0587/C-C-DSA/tree/master/0485-max-consecutive-ones) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Abhi0587/C-C-DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhi0587/C-C-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhi0587/C-C-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Abhi0587/C-C-DSA/tree/master/1929-concatenation-of-array) |
@@ -63,6 +64,7 @@ Problems
 | [0326-power-of-three](https://github.com/Abhi0587/C-C-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abhi0587/C-C-DSA/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/Abhi0587/C-C-DSA/tree/master/0441-arranging-coins) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Abhi0587/C-C-DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abhi0587/C-C-DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhi0587/C-C-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
@@ -148,6 +150,7 @@ Problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abhi0587/C-C-DSA/tree/master/0011-container-with-most-water) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Abhi0587/C-C-DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Prefix Sum
 |  |
 | ------- |
