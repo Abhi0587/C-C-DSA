@@ -67,6 +67,7 @@ Problems
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Abhi0587/C-C-DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abhi0587/C-C-DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhi0587/C-C-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2235-add-two-integers](https://github.com/Abhi0587/C-C-DSA/tree/master/2235-add-two-integers) |
 ## Two Pointers
 |  |
 | ------- |
