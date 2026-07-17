@@ -24,6 +24,7 @@ Problems
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Abhi0587/C-C-DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhi0587/C-C-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhi0587/C-C-DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Abhi0587/C-C-DSA/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/Abhi0587/C-C-DSA/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ Problems
 | [0202-happy-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Abhi0587/C-C-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/Abhi0587/C-C-DSA/tree/master/1512-number-of-good-pairs) |
 | [3941-password-strength](https://github.com/Abhi0587/C-C-DSA/tree/master/3941-password-strength) |
 ## Binary Search
 |  |
@@ -67,6 +69,7 @@ Problems
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Abhi0587/C-C-DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abhi0587/C-C-DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhi0587/C-C-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/Abhi0587/C-C-DSA/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Abhi0587/C-C-DSA/tree/master/2235-add-two-integers) |
 ## Two Pointers
 |  |
@@ -123,6 +126,7 @@ Problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhi0587/C-C-DSA/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/Abhi0587/C-C-DSA/tree/master/1512-number-of-good-pairs) |
 ## Database
 |  |
 | ------- |
