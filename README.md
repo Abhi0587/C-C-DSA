@@ -139,6 +139,7 @@ Problems
 | [0620-not-boring-movies](https://github.com/Abhi0587/C-C-DSA/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/Abhi0587/C-C-DSA/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Abhi0587/C-C-DSA/tree/master/1683-invalid-tweets) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Abhi0587/C-C-DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Simulation
 |  |
 | ------- |
