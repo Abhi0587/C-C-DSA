@@ -21,6 +21,7 @@ Problems
 | [0268-missing-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhi0587/C-C-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Abhi0587/C-C-DSA/tree/master/0485-max-consecutive-ones) |
+| [0905-sort-array-by-parity](https://github.com/Abhi0587/C-C-DSA/tree/master/0905-sort-array-by-parity) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Abhi0587/C-C-DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhi0587/C-C-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhi0587/C-C-DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -83,6 +84,7 @@ Problems
 | [0202-happy-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Abhi0587/C-C-DSA/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhi0587/C-C-DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Abhi0587/C-C-DSA/tree/master/0905-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -122,6 +124,7 @@ Problems
 | [0169-majority-element](https://github.com/Abhi0587/C-C-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhi0587/C-C-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0268-missing-number) |
+| [0905-sort-array-by-parity](https://github.com/Abhi0587/C-C-DSA/tree/master/0905-sort-array-by-parity) |
 ## Counting
 |  |
 | ------- |
