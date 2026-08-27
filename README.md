@@ -91,6 +91,7 @@ Problems
 | [0189-rotate-array](https://github.com/Abhi0587/C-C-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Abhi0587/C-C-DSA/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Abhi0587/C-C-DSA/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhi0587/C-C-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Abhi0587/C-C-DSA/tree/master/0905-sort-array-by-parity) |
 ## Dynamic Programming
@@ -187,6 +188,7 @@ Problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhi0587/C-C-DSA/tree/master/0020-valid-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0171-excel-sheet-column-number) |
+| [0344-reverse-string](https://github.com/Abhi0587/C-C-DSA/tree/master/0344-reverse-string) |
 | [3941-password-strength](https://github.com/Abhi0587/C-C-DSA/tree/master/3941-password-strength) |
 ## Stack
 |  |
