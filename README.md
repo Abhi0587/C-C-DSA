@@ -78,6 +78,7 @@ Problems
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhi0587/C-C-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhi0587/C-C-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Abhi0587/C-C-DSA/tree/master/1512-number-of-good-pairs) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Abhi0587/C-C-DSA/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2235-add-two-integers](https://github.com/Abhi0587/C-C-DSA/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Abhi0587/C-C-DSA/tree/master/2469-convert-the-temperature) |
 ## Two Pointers
