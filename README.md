@@ -30,6 +30,7 @@ Problems
 | [1480-running-sum-of-1d-array](https://github.com/Abhi0587/C-C-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Abhi0587/C-C-DSA/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/Abhi0587/C-C-DSA/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhi0587/C-C-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Problems
 | [0268-missing-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Abhi0587/C-C-DSA/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Abhi0587/C-C-DSA/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhi0587/C-C-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -149,6 +151,7 @@ Problems
 | [0268-missing-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/Abhi0587/C-C-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhi0587/C-C-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhi0587/C-C-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
