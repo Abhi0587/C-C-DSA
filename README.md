@@ -27,6 +27,7 @@ Problems
 | [1089-duplicate-zeros](https://github.com/Abhi0587/C-C-DSA/tree/master/1089-duplicate-zeros) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Abhi0587/C-C-DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhi0587/C-C-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Abhi0587/C-C-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/Abhi0587/C-C-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhi0587/C-C-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Abhi0587/C-C-DSA/tree/master/1512-number-of-good-pairs) |
@@ -41,6 +42,7 @@ Problems
 | [0202-happy-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Abhi0587/C-C-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0268-missing-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Abhi0587/C-C-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/Abhi0587/C-C-DSA/tree/master/1512-number-of-good-pairs) |
 | [3941-password-strength](https://github.com/Abhi0587/C-C-DSA/tree/master/3941-password-strength) |
 ## Binary Search
@@ -51,6 +53,7 @@ Problems
 | [0268-missing-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Abhi0587/C-C-DSA/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Abhi0587/C-C-DSA/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Abhi0587/C-C-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhi0587/C-C-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
@@ -102,6 +105,7 @@ Problems
 | [0905-sort-array-by-parity](https://github.com/Abhi0587/C-C-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhi0587/C-C-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Abhi0587/C-C-DSA/tree/master/1089-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Abhi0587/C-C-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -153,6 +157,7 @@ Problems
 | [0268-missing-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/Abhi0587/C-C-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhi0587/C-C-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Abhi0587/C-C-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhi0587/C-C-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
