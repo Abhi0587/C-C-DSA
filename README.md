@@ -24,6 +24,7 @@ Problems
 | [0704-binary-search](https://github.com/Abhi0587/C-C-DSA/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/Abhi0587/C-C-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhi0587/C-C-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Abhi0587/C-C-DSA/tree/master/1089-duplicate-zeros) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Abhi0587/C-C-DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhi0587/C-C-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/Abhi0587/C-C-DSA/tree/master/1470-shuffle-the-array) |
@@ -100,6 +101,7 @@ Problems
 | [0876-middle-of-the-linked-list](https://github.com/Abhi0587/C-C-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Abhi0587/C-C-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhi0587/C-C-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Abhi0587/C-C-DSA/tree/master/1089-duplicate-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
