@@ -51,6 +51,7 @@ Problems
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhi0587/C-C-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Abhi0587/C-C-DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Abhi0587/C-C-DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Abhi0587/C-C-DSA/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Abhi0587/C-C-DSA/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhi0587/C-C-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -76,6 +77,7 @@ Problems
 | [0268-missing-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Abhi0587/C-C-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abhi0587/C-C-DSA/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Abhi0587/C-C-DSA/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Abhi0587/C-C-DSA/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/Abhi0587/C-C-DSA/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Abhi0587/C-C-DSA/tree/master/0509-fibonacci-number) |
